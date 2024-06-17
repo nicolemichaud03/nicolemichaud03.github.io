@@ -7,8 +7,12 @@ Data scientist, machine learning engineer, and data analyst with experience in m
 
 ## Relevant Projects
 <br>
-### Currently Working on: Chatbot Battle Predictor
+### Currently Working on: Chatbot Preference Predictor
+Chatbots go head-to-head in generating responses to prompts and users have selected which response they prefer.
+Using this data, can we predict which chatbot will produce the more preferable response to users in unseen data?
+My approach is to employ NLP techniques to prepare prompt and response data, then to use multi-label classification models to generate predictions.
 
+<a href="https://www.kaggle.com/competitions/lmsys-chatbot-arena">View Kaggle competition page</a>
 
 <br>
 ### Recipe Recommendation System with User Dietary Preference Information
@@ -17,8 +21,8 @@ A multi-task  Neural Network model created with Tensorflow Recommenders used tex
 The recommendation retrieval was then optimized using Scalable Nearest Neighbors (ScaNN).
 
 
-<a href="">View code on Google Colab</a>
-<a href="">View full Github repository</a>
+<a href="https://github.com/nicolemichaud03/Recipe-Recommender-System">View full Github repository</a>
+
 <br>
 ### Classifying Disaster Tweets with NLP
 As part of an ongoing Kaggle competition, I cleaned and pre-processed text data from over 10,000 tweets using Natural Language Toolkit (NLTK) and Regular Expressions (RegEx).
@@ -26,7 +30,8 @@ Deployed Scikit-learn’s Multinomial Naive Bayes, GridSearchCV, TF-IDF Vectoriz
 classification metrics to create, tune, and evaluate models.
 Tweets were classified as being about a disaster or not.
 
-<a href="">View full Github repository</a>
+<a href="https://github.com/nicolemichaud03/Disaster_Tweets_NLP_Predictions">View full Github repository</a>
+
 <br>
 ### Spotify Hit Songs Classification
 Data from over 63,000 songs with 14 total features was cleaned and normalized using Scikit-Learn. 
@@ -34,20 +39,25 @@ Exploratory analysis and visualizations were created to uncover important trends
 Models including Decision Tree and Random Forest Classifiers were created, evaluated, and tuned using GridSearchCV.
 Model Results and feature importances were interpreted to determine most relevant features for predicting hit songs.
 
-<a href="">View full Github repository</a>
+<a href="https://github.com/nicolemichaud03/Spotify_hit_songs_classification">View full Github repository</a>
+
 <br>
 ### Gemma Demo for Python Q&A
-Demonstrated how to load, use, tune, and generate responses with Google's new open-source Gemma models for question and answer capabilities, using FAQs about the programming language, Python.
+Demonstrated how to load, use, tune, and generate responses with Google's new open-source Gemma large language models (LLMs) for question and answer capabilities, using FAQs about the programming language, Python.
 Tuned models using Low-Rank Adaptation (LoRa) and saw an improvement in generated responses.
 
 
-<a href="">View code in Kaggle Notebook</a>
-<a href="">View full Github repository</a>
+<a href="https://www.kaggle.com/competitions/data-assistants-with-gemma">View code in Kaggle Notebook</a>
+
+<a href="https://github.com/nicolemichaud03/Gemmo-Demo-for-Python-Q-A">View full Github repository</a>
+
 <br>
 ### Research Review for Previous Employer
 Compared company sales and placement data to current market data to provide recommendations to stakeholders.
 Used past and current internal data on placements/sales, revenue, and marketing efforts, and compared to national trends sourced
 from the Bureau of Labor Statistics (BLS).
 Presented dynamic visualizations of findings with the goal of improving efforts in areas of marketing, business development, and sales.
-<a href="">View sample presentation (metrics removed for privacy)</a>
+
+<a href="https://github.com/nicolemichaud03/Sample_Work_Presentation">View sample presentation (metrics removed for privacy)</a>
+
 <br>
