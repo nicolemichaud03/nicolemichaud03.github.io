@@ -76,10 +76,10 @@ Used past and current internal data on placements/sales, revenue, and marketing 
 from the Bureau of Labor Statistics (BLS).
 Presented dynamic visualizations of findings with the goal of improving efforts in areas of marketing, business development, and sales.
 
-<img src="Desktop/Work_Projects/Anon/Sample_Work_Presentation/images/ind_plcmnts.png" alt="Sample Image 1" width="100" height="50">
-<img src="Desktop/Work_Projects/Anon/Sample_Work_Presentation/images/aofe_plcmnts1.png" alt="Sample Image 5" width="100" height="50">
-<img src="Desktop/Work_Projects/Anon/Sample_Work_Presentation/images/2021jobpostings.png" alt="Sample Image 8" width="100" height="50">
-<img src="Desktop/Work_Projects/Anon/Sample_Work_Presentation/images/AllRegionsAllMonths.png" alt="Sample Image 14" width="100" height="50">
+<img src="images/ind_plcmnts.png" alt="Sample Image 1" width="100" height="50">
+<img src="images/aofe_plcmnts1.png" alt="Sample Image 5" width="100" height="50">
+<img src="images/2021jobpostings.png" alt="Sample Image 8" width="100" height="50">
+<img src="images/AllRegionsAllMonths.png" alt="Sample Image 14" width="100" height="50">
 
 
 <a href="https://github.com/nicolemichaud03/Sample_Work_Presentation">View sample presentation (metrics removed for privacy)</a>
