@@ -26,8 +26,8 @@ From over 226,000 users and their recipe ratings on food.com, Natural Language P
 A multi-task  Neural Network model created with Tensorflow Recommenders used text processing to incorporate the diet-types of users while retrieving and ranking the top 3 recipe recommendations for each user.
 The recommendation retrieval was then optimized using Scalable Nearest Neighbors (ScaNN).
 
-<div><img src="images/mulitask_model.png" alt="multitask model diagram" width="210" height="125">
-<img src="images/rating_distrib.png" alt = "distribution of ratings" width="210" height="125">
+<div><img src="images/mulitask_model.png" alt="multitask model diagram" width="300" height="200">
+<img src="images/rating_distrib.png" alt = "distribution of ratings" width="300" height="200">
 </div>
 
 
@@ -44,9 +44,9 @@ classification metrics to create, tune, and evaluate models.
 Tweets were classified as being about a disaster or not.
 
 <div>
-<img src="images/disaster_cloud.png" alt = "word cloud for disaster tweets" width="200" height="120">
-<img src="images/other_cloud.png" alt = "word cloud for other tweets" width="200" height="120">
-<img src="images/clf_report2.png" alt = "classification report visual" width="200" height="120">
+<img src="images/disaster_cloud.png" alt = "word cloud for disaster tweets" width="200" height="150">
+<img src="images/other_cloud.png" alt = "word cloud for other tweets" width="200" height="150">
+<img src="images/clf_report2.png" alt = "classification report visual" width="200" height="150">
 </div>
 
 
@@ -63,9 +63,9 @@ Models including Decision Tree and Random Forest Classifiers were created, evalu
 Model Results and feature importances were interpreted to determine most relevant features for predicting hit songs.
 
 <div>
-<img src="images/corr_map.png" alt = "correlation map of features" width="150" height="100">
-<img src="images/cm.png" alt = "confusion matrix of results" width="150" height="100">
-<img src="images/importances.png" alt = "feature importances" width="150" height="100">
+<img src="images/corr_map.png" alt = "correlation map of features" width="200" height="150">
+<img src="images/cm.png" alt = "confusion matrix of results" width="200" ="150">
+<img src="images/importances.png" alt = "feature importances" width="200" height="150">
 </div>
 
 <a href="https://github.com/nicolemichaud03/Spotify_hit_songs_classification">View full Github repository</a>
