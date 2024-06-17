@@ -26,8 +26,8 @@ From over 226,000 users and their recipe ratings on food.com, Natural Language P
 A multi-task  Neural Network model created with Tensorflow Recommenders used text processing to incorporate the diet-types of users while retrieving and ranking the top 3 recipe recommendations for each user.
 The recommendation retrieval was then optimized using Scalable Nearest Neighbors (ScaNN).
 
-<div><img src="images/mulitask_model.png" alt="multitask model diagram" width="150" height="100">
-<img src="images/rating_distrib.png" alt = "distribution of ratings" width="150" height="100">
+<div><img src="images/mulitask_model.png" alt="multitask model diagram" width="210" height="125">
+<img src="images/rating_distrib.png" alt = "distribution of ratings" width="210" height="125">
 </div>
 
 
@@ -44,9 +44,9 @@ classification metrics to create, tune, and evaluate models.
 Tweets were classified as being about a disaster or not.
 
 <div>
-<img src="images/disaster_cloud.png" alt = "word cloud for disaster tweets" width="150" height="100">
-<img src="images/other_cloud.png" alt = "word cloud for other tweets" width="150" height="100">
-<img src="images/clf_report2.png" alt = "classification report visual" width="150" height="100">
+<img src="images/disaster_cloud.png" alt = "word cloud for disaster tweets" width="200" height="120">
+<img src="images/other_cloud.png" alt = "word cloud for other tweets" width="200" height="120">
+<img src="images/clf_report2.png" alt = "classification report visual" width="200" height="120">
 </div>
 
 
@@ -78,7 +78,7 @@ Demonstrated how to load, use, tune, and generate responses with Google's new op
 Tuned models using Low-Rank Adaptation (LoRa) and saw an improvement in generated responses.
 
 
-<img src="images/gemma.jpeg" alt = "correlation map of features" width="500" height="300">
+<div><img src="images/gemma.jpeg" alt = "correlation map of features" width="400" height="200"></div>
 
 <a href="https://www.kaggle.com/competitions/data-assistants-with-gemma">View code in Kaggle Notebook</a>
 
