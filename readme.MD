@@ -26,6 +26,10 @@ From over 226,000 users and their recipe ratings on food.com, Natural Language P
 A multi-task  Neural Network model created with Tensorflow Recommenders used text processing to incorporate the diet-types of users while retrieving and ranking the top 3 recipe recommendations for each user.
 The recommendation retrieval was then optimized using Scalable Nearest Neighbors (ScaNN).
 
+<div><img src="images/mulitask_model.png" alt="multitask model diagram" width="150" height="100">
+<img src="images/example_recs" alt = "example recommendations" width="150" height="100">
+<img src="images/rating_distrib.png" alt = "distribution of ratings" width="150" height="100">
+</div>
 
 <a href="https://github.com/nicolemichaud03/Recipe-Recommender-System">View full Github repository</a>
 
@@ -39,6 +43,12 @@ Deployed Scikit-learn’s Multinomial Naive Bayes, GridSearchCV, TF-IDF Vectoriz
 classification metrics to create, tune, and evaluate models.
 Tweets were classified as being about a disaster or not.
 
+<div>
+<img src="images/disaster_cloud" alt = "word cloud for disaster tweets" width="150" height="100">
+<img src="images/other_cloud" alt = "word cloud for other tweets" width="150" height="100">
+<img src="images/clf_report2" alt = "classification report visual" width="150" height="100">
+</div>
+
 <a href="https://github.com/nicolemichaud03/Disaster_Tweets_NLP_Predictions">View full Github repository</a>
 
 <br>
@@ -51,6 +61,12 @@ Exploratory analysis and visualizations were created to uncover important trends
 Models including Decision Tree and Random Forest Classifiers were created, evaluated, and tuned using GridSearchCV.
 Model Results and feature importances were interpreted to determine most relevant features for predicting hit songs.
 
+<div>
+<img src="images/corr_map" alt = "correlation map of features" width="150" height="100">
+<img src="images/cm" alt = "confusion matrix of results" width="150" height="100">
+<img src="images/importances" alt = "feature importances" width="150" height="100">
+</div>
+
 <a href="https://github.com/nicolemichaud03/Spotify_hit_songs_classification">View full Github repository</a>
 
 <br>
@@ -60,6 +76,8 @@ Model Results and feature importances were interpreted to determine most relevan
 Demonstrated how to load, use, tune, and generate responses with Google's new open-source Gemma large language models (LLMs) for question and answer capabilities, using FAQs about the programming language, Python.
 Tuned models using Low-Rank Adaptation (LoRa) and saw an improvement in generated responses.
 
+
+<img src="images/gemma.jpeg" alt = "correlation map of features" width="300" height="200">
 
 <a href="https://www.kaggle.com/competitions/data-assistants-with-gemma">View code in Kaggle Notebook</a>
 
@@ -76,10 +94,10 @@ Used past and current internal data on placements/sales, revenue, and marketing 
 from the Bureau of Labor Statistics (BLS).
 Presented dynamic visualizations of findings with the goal of improving efforts in areas of marketing, business development, and sales.
 
-<div><img src="images/ind_plcmnts.png" alt="Sample Image 1" width="100" height="50">
-<img src="images/aofe_plcmnts1.png" alt="Sample Image 5" width="100" height="50">
-<img src="images/2021jobpostings.png" alt="Sample Image 8" width="100" height="50">
-<img src="images/AllRegionsAllMonths.png" alt="Sample Image 14" width="100" height="50">
+<div><img src="images/ind_plcmnts.png" alt="Sample Image 1" width="150" height="100">
+<img src="images/aofe_plcmnts1.png" alt="Sample Image 5" width="150" height="100">
+<img src="images/2021jobpostings.png" alt="Sample Image 8" width="150" height="100">
+<img src="images/AllRegionsAllMonths.png" alt="Sample Image 14" width="150" height="100">
 
 
 <a href="https://github.com/nicolemichaud03/Sample_Work_Presentation">View sample presentation (metrics removed for privacy)</a></div>
